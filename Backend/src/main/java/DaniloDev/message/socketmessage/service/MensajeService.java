@@ -19,3 +19,4 @@ public class MensajeService {
         return new MensajeDTO(mensaje.nombre(),mensaje.contenido());
     }
 }
+//Modulo de mensajeria DTO
