@@ -35,7 +35,7 @@ Asegúrate de tener instalados los siguientes componentes:
 ## Configuración
 
 1. Clona este repositorio en tu máquina local usando Git:
-   git clone https://github.com/tuusuario/tuproyecto.git
+   git clone https://github.com/DaniloRiver/Chat-websocket-springBoot-React.git
    
 ## Configura la base de datos MongoDB en application.properties del proyecto Spring Boot:
 
