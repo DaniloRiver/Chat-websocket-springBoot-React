@@ -38,7 +38,8 @@ Asegúrate de tener instalados los siguientes componentes:
    git clone https://github.com/tuusuario/tuproyecto.git
    
 ## Configura la base de datos MongoDB en application.properties del proyecto Spring Boot:
--spring.data.mongodb.host=localhost
--spring.data.mongodb.port=27017
--spring.data.mongodb.database=chat_app
+
+- spring.data.mongodb.host=localhost
+- spring.data.mongodb.port=27017
+- spring.data.mongodb.database=chat_app
 
